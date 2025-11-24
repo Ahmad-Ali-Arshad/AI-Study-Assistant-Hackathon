@@ -1,1 +1,4 @@
 # AI-Study-Assistant-Hackathon
+
+AI-Study-Assistant-Hackathon
+AN AI STUDY ASSISTANT USED FOR HELPING STUDENTS DO TASKS MORE EASILY
